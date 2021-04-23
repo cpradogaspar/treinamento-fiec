@@ -1,0 +1,1 @@
+Parte do fluxo de trabalho envolve o ato de unir as modificações de ramificações (branches) diferentes. Para realizar o merge de uma branch terceira à nossa branch atual usamos o seguinte comando:
